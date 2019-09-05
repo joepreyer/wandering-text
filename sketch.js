@@ -17,7 +17,7 @@ function preload() {
   font1 = loadFont("assets/EspiSlabPro-Medium.otf");
 }
 
-var letters = "Edenspiekermann_ Rethink your thinking.   ";
+var letters = "Hi, my name is Joe Preyer. I create music and software. <3 ----------------------   ";
 var fontSizeMin = 10;
 var angleDistortion = 0.0;
 
